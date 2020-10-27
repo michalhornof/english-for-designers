@@ -1,4 +1,4 @@
-###Michal Hornof
+Michal Hornof
 
 Hi,
 My name is Michal and I like to look for ways to make things more original and above all tightened to the end.
