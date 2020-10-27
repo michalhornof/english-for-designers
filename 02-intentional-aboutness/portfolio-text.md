@@ -1,10 +1,9 @@
 Michal Hornof
 
 Hi,
-My name is Michal and I like to look for ways to make things more original and above all tightened to the end.
+My name is Michal and I love everything visual.
+I really love to cook, paint, meet with friends and play some old school computer games.
 
-I study graphic and media design at the university.
-I have experience in creating logos, posters, promotional prints and illustrations.
+I study graphic design at the university along with starting startup with my friends and creating graphic works for people I met.
+I have experience in creating posters, promotional prints, logos and illustrations.
 I have already created posters for several rock bands and coffee houses. I have also been involved in creating FF UK event promotional materials.
-
-I really love cooking, painting, meeting with friends along with playing computer games in my free time.
