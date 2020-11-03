@@ -1,12 +1,9 @@
 # Čtení ve vlaku. Campaign and visual style of literature festival.
-<br />
 
 ## Introduction
 
 “Čtení ve vlaku” is an annual festival where leading czech writers read from their books to passengers when they travel by train since 2013. 
 Which takes place at the trains of suburban railway lines of Prague.
-
-<br/>
 
 ## Research
 
@@ -30,16 +27,11 @@ The logo forms a train symbol. We placed books on the wagon, which symbolize the
 The logo is made of dark autumn colors, because the festival is usually in autumn. Of course, we also made a black and white variant of the logo. 
 We also used the logo as a design for bags or badges.
 
-<br/>
-
 Credits:
 Design: Michal Hornof, Tereza Vaníčková<br/>
 Marketing: Michaela Kulhánková, Klára Opatřilová<br/>
 Management: Božena Marsikova<br/>
 Public Relations: Irena Stárková<br/>
-
-<br/>
-<br/>
 
 ## Gallery
 <img src="./images/billboard1.png" alt="billboard1.png" width="700"/>
