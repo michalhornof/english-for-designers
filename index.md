@@ -6,5 +6,4 @@
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)
 
-english-for-designers2/02-intentional-aboutness/case-study.md
 
