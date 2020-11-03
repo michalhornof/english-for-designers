@@ -20,7 +20,7 @@ We worked on the project as a team. Michal and Tereza took care of graphic desig
 We started in October, when everyone found out about the festival. At first we all thought about the strategy, then Michal and Tereza started working on the logo. 
 Michal drew logo designs ideas on paper, we chose the best together and Tereza created it on the computer in Adobe Illustrator.
 
-<img src="./images/logo-cteni2.png" alt="logo-cteni2.png" width="1000"/>
+<img src="./images/logo.png" alt="logo.png" width="1000"/>
 
 ## About the logo
 
