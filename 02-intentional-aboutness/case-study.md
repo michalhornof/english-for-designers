@@ -11,8 +11,8 @@ Which takes place at the trains of suburban railway lines of Prague.
 In the first place we found out how the previous year of the festival looked because we couldn't find any such thing as this festival. (I still think there isn't.) 
 Then we made research about other literature festivals in Europe. 
 
-<img src="./images/smoke.png" alt="smoke.png" width="700"/>
-<img src="./images/ticket.png" alt="ticket.png" width="700"/>
+<img src="./images/smoke.png" alt="smoke.png" width="350"/>
+<img src="./images/ticket.png" alt="ticket.png" width="350"/>
 
 ## How did we work on the project?
 
