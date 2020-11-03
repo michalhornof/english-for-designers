@@ -5,5 +5,3 @@
 
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)
-
-
