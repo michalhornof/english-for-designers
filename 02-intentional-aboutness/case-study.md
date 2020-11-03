@@ -30,13 +30,14 @@ The logo forms a train symbol. We placed books on the wagon, which symbolize the
 The logo is made of dark autumn colors, because the festival is usually in autumn. Of course, we also made a black and white variant of the logo. 
 We also used the logo as a design for bags or badges.
 
-<br/>
-<br/>
 Credits:
 Design: Michal Hornof, Tereza Vaníčková
 Marketing: Michaela Kulhánková, Opatřilová
 Management: Božena Marsikova
 Public Relations: Irena Stárková
+
+<br/>
+<br/>
 
 ## Gallery
 <img src="./images/billboard1.png" alt="billboard1.png" width="700"/>
