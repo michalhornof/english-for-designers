@@ -18,6 +18,7 @@ We started in October, when everyone found out about the festival. At first we a
 Michal drew logo designs ideas on paper, we chose the best together and Tereza created it on the computer in Adobe Illustrator.
 
 <img src="./images/logo-cteni.jpg" alt="logo-cteni.jpg" width="400"/>
+
 ## About the logo
 
 The logo forms a train symbol. We placed books on the wagon, which symbolize the book festival on the train. 
