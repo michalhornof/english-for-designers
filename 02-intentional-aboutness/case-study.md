@@ -30,7 +30,8 @@ We also used the logo as a design for bags or badges.
 
 
 ## Gallery
-<img src="./images/billboards.jpg" alt="billboards.jpg" width="1000"/>
+<img src="./images/billboard1.png" alt="billboard1.png" width="1000"/>
+<img src="./images/billboard2.png" alt="billboard2.png" width="1000"/>
 <img src="./images/placky.jpg" alt="placky.jpg" width="400"/>
 <img src="./images/TASKA_slogan1.jpg" alt="TASKA_slogan1.jpg" width="400"/>
 
