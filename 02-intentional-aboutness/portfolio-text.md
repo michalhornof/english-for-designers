@@ -1,4 +1,4 @@
-Michal Hornof
+### Michal Hornof
 
 Hi,
 my name is Michal and I love everything visual.
