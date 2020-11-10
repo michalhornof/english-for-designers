@@ -1,5 +1,7 @@
 [View cv-2020-mhornof (PDF)](cv-2020-mhornof.pdf)
 
+<img alt = "profile-img.jph" src= "./img/profile-img.jpg" width="200"> 
+
 # Michal Hornof
 
 michalhornof.myportfolio.com,
