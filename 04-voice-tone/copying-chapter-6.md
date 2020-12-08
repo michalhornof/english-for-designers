@@ -1,6 +1,6 @@
 # VI
 
-I have to confess.
+I have to confess a little.
 I really can't stand copying until recent years, not understanding what I can learn of it. 
 Don't get me wrong I have always had my favourite artist and sometimes even had an idea about at least imitating their work. 
 But it always ended “I can't do that! It's not right!”, and being upset about my work not being “original.”
