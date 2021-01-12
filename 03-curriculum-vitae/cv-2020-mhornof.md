@@ -1,5 +1,3 @@
-[View cv-2020-mhornof (PDF)](cv-2020-mhornof.pdf)
-
 # Michal Hornof
 
 michalhornof.myportfolio.com,
@@ -41,3 +39,5 @@ Painting
 Collaboration
 Adobe CC, Figma, 
 Microsoft Office
+
+[View cv-2020-mhornof (PDF)](cv-2020-mhornof.pdf)
