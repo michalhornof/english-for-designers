@@ -6,5 +6,5 @@
 
 ## Work
 - [Case Study](02-intentional-aboutness/case-study.md)
-- [Case Study](05-presentation-storytelling/05-presentation-storytelling.md)
+- [Storytelling](05-presentation-storytelling/05-presentation-storytelling.md)
 
