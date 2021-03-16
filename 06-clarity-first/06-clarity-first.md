@@ -25,16 +25,15 @@
 
 
 ## Keywords
-
-Poetry
-Bilingual
-Book
-Printed publication
-Illustration
-Visual translation
-Typeface
-Book cover
-Visual style
+- Poetry
+- Bilingual
+- Book
+- Printed publication
+- Illustration
+- Visual translation
+- Typeface
+- Book cover
+- Visual style
 
 ## References
 
