@@ -1,4 +1,4 @@
-# One Sentence About Tyranny#
+# One Sentence About Tyranny
 
 <details>
   <summary>Mind Map</summary>
@@ -11,7 +11,6 @@
 - Tone: Neutral, formal
 
 ## Outline
-- asa
 - Research
 - Comunication with translator
 - Creation of illustrations
