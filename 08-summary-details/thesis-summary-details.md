@@ -18,8 +18,22 @@ Merchendising
 <img src="./img/moodboard.png" alt="moodboard" width="500"/> 
 
 When I designed the book, I wanted to evoke in the reader as much as possible the same feeling as he can have from the poem itself. 
-So key items were for me:
+#### So key items were for me:
 
 <li>Rawness</li>
 <li>Gradation</li>
 <li>Red color</li>
+
+### Theoretical part
+
+<li>Authors life</li>
+<li>Design</li>
+<li>Print</li>
+<li>Advertising</li>
+
+### Thinks I would do differently
+
+<li>"Time management"</li>
+<li>Nothing</li>
+
+
