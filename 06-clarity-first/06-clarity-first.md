@@ -2,8 +2,7 @@
 
 <details>
   <summary>Mind Map</summary>
-
-  <img alt="Mind Map Of My Thesis" src="/img/mindmap-hornof.png">
+  <img alt="Mind Map Of My Thesis" src="mindmap-hornof.png">
 </details>
 
 ## Voice & Tone
